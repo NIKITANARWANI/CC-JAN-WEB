@@ -1,0 +1,36 @@
+body{
+    background-color:rgb(150, 163, 46);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+}
+button{
+	outline: aqua;
+    
+  }
+  button:hover{
+    cursor: pointer;
+  }
+  #submit{
+    text-transform: uppercase;
+    color: black;
+    cursor: pointer;
+    font: 1rem sans-serif;
+  }
+#app {
+    width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  #note-input{
+    font: 2rem sans-serif;
+  }
+  #note-form {
+    margin-bottom: 20px;
+  }
+  
+  #note-input {
+    width: 100%;
+    padding: 12px 20px;
+    box-sizing: border-box;
+  }
+  
